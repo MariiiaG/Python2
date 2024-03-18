@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af792fba-216a-4a05-99ff-f56f45f24550" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec01_basics/lec01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec02_simple_data_types/lec02-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec03_collections/lec03-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem01/sem01-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem01/sem01-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem01/sem01-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem01/sem01-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem01/sem01-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem01/sem01-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem02/sem02-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem02/sem02-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem02/sem02-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem02/sem02-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem02/sem02-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem02/sem02-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem03/sem03-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem03/sem03-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem03/sem03-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cmdDbV1SBye3zHJjQV2aX8xREw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lec01.executor": "Run",
+    "Python.lec02-01.executor": "Run",
+    "Python.lec03-01.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sem01-03.executor": "Run",
+    "Python.sem01-04.executor": "Run",
+    "Python.sem01-05.executor": "Run",
+    "Python.sem01-06.executor": "Run",
+    "Python.sem01-2.executor": "Run",
+    "Python.sem01.executor": "Run",
+    "Python.sem02-01.executor": "Run",
+    "Python.sem02-02.executor": "Run",
+    "Python.sem02-03.executor": "Run",
+    "Python.sem02-04.executor": "Run",
+    "Python.sem02-05.executor": "Run",
+    "Python.sem02-06.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "Shelf.Project.Settings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af792fba-216a-4a05-99ff-f56f45f24550" name="Changes" comment="" />
+      <created>1708720570458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708720570458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
