@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af792fba-216a-4a05-99ff-f56f45f24550" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec01_basics/lec01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec02_simple_data_types/lec02-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lec03_collections/lec03-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem01/sem01-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem01/sem01-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem01/sem01-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem01/sem01-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem01/sem01-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem01/sem01-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem02/sem02-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem02/sem02-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem02/sem02-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem02/sem02-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem02/sem02-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem02/sem02-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem03/sem03-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem03/sem03-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem03/sem03-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="af792fba-216a-4a05-99ff-f56f45f24550" name="Changes" comment="Python 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +98,31 @@
       <option name="presentableId" value="Default" />
       <updated>1708720570458</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python 2">
+      <option name="closed" value="true" />
+      <created>1710787221524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710787221524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
