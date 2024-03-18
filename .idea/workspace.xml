@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af792fba-216a-4a05-99ff-f56f45f24550" name="Changes" comment="Python 2" />
+    <list default="true" id="af792fba-216a-4a05-99ff-f56f45f24550" name="Changes" comment="Python 2 git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710787221524</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python 2 git">
+      <option name="closed" value="true" />
+      <created>1710788029103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710788029103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python 2" />
+    <MESSAGE value="Python 2 git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 2 git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
